@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
 </p>
 
-<h2>📊 Fake GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ACE&show_icons=true&locale=en" alt="ACE GitHub Stats" />
