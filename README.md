@@ -1,69 +1,25 @@
-<h1 align="center">Hi, I'm Joeal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> — aka ACE</h1>
-<h3 align="center">AI & ML Enthusiast | Minecraft Dev | Full Stack Web Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joealjohn&label=Profile%20views&color=0e75b6&style=flat" alt="joealjohn" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-```python
-class Ace:
-    name = "Joeal"
-    aka = "ACE"
-    role = ["AI/ML Enthusiast", "Full Stack Dev", "Minecraft Developer"]
-    location = "India"
-    skills = ["Python", "PHP", "SQL", "Skript", "Linux", "HTML/CSS", "JavaScript"]
-    currently_learning = ["Deep Learning", "Prompt Engineering", "Java Plugin Dev"]
-
-    def goal():
-        return "To build smart systems and epic Minecraft experiences 🚀"
-🧰 Tech Stack
-💪 Proficient In
-
-
-
-
-🤹 Familiar With
-
-
-
-
-
-📚 Currently Learning
-
-
-🚀 Notable Projects
-🛡️ Minecraft Server Scripts
-Advanced server-side logic using Skript for cracked and premium servers. Includes custom PvP, dueling systems, anti-abuse checks, and GUI-based features.
-
-🔌 Server Plugins
-Custom Java plugins built for Bukkit/Spigot/Paper servers, focused on gameplay balancing, automation, and server management tools.
-
-🌐 Full Stack Web Development
-Dynamic websites using PHP, SQL, and HTML/CSS/JS. Includes admin dashboards, user authentication, and database-driven interfaces.
-
-🤖 Mini AI Tools
-Python-based automation bots and analysis tools for data processing, ML experimentation, and productivity enhancement.
-
-📊 GitHub Analytics
-GitHub Stats	Most Used Languages
-
-🎓 Academic Journey
-🎓 Undergraduate Student in Computer Science
-
-🧠 Passionate about scripting, cybersecurity, backend systems & AI
-
-📈 Contribution Graph
-
-🖥️ Workspace Setup
-
-
-
-🌐 Connect With Me
-
-
-
-<p align="center">✨ Thanks for visiting ✨</p> ```
+<h1>Full Stack Developer | Minecraft Plugin Dev | Automation Enthusiast</h1>
+<p>A passionate developer from India, building immersive Minecraft systems and smart automation tools</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ACE&show_icons=true&locale=en" alt="ACE" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ACE&show_icons=true&locale=en&layout=compact" alt="ACE" /></p>
