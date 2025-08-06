@@ -33,13 +33,5 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ACE&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 💡 Fun Fact
 I automate boring tasks so I can focus on building the fun stuff.
