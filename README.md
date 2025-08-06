@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Developer | 🎮 Minecraft Plugin Dev | ⚙️ Automation Enthusiast</h3>
 
 <p align="center">
-  I love building immersive Minecraft systems, smart automation tools, and modern web applications.
+  I build immersive Minecraft systems, automation tools, and full-stack web apps.
 </p>
 
 ---
@@ -19,9 +19,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ACE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACE&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/fake-github-stats.png" height="165"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/fake-top-langs.png" height="165"/>
 </p>
+
+---
+
+## 🏆 Quick Badges
+
+![Commits](https://img.shields.io/badge/Commits-1.2k-brightgreen?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-120-yellow?style=for-the-badge)
+![PRs](https://img.shields.io/badge/PRs-320-blue?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-85-orange?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-150-red?style=for-the-badge)
 
 ---
 
@@ -29,7 +39,7 @@
 
 - 🎮 **Minecraft Automation Systems** – Custom plugins & tools for server automation  
 - ⚡ **Automation Bots** – Scripts that save hours of manual work  
-- 🌐 **Full Stack Web Apps** – From design to deployment
+- 🌐 **Full Stack Web Apps** – From design to deployment  
 
 ---
 
