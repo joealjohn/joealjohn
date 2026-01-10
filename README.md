@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi there, I'm Joeal John! 👋
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;System+Design+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </a>
@@ -88,5 +87,8 @@
 <br><br>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=joealjohn&theme=radical&hide_border=true" />
+
+<br><br>
+<img src="https://github.com/joealjohn/joealjohn/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
