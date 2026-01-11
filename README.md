@@ -34,7 +34,6 @@
 
 ## 💻 Tech Stack
 
-### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
@@ -42,20 +41,14 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
-
-### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-
-### 🗄 Databases & Cache
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis)
-
-### ☁ Cloud & Backend
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud)
