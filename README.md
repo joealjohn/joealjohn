@@ -1,85 +1,94 @@
 <div align="center">
 
-# Hi there, I'm Joeal John! 👋
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F88FF,100:00C6FF&height=200&section=header&text=Joeal%20John&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <b>Curious and driven developer building real-world projects.</b><br>
-  I enjoy exploring different stacks and continuously improving system design and performance.
-</p>
+<h3>🚀 Full-Stack Developer • System Design Enthusiast</h3>
 
-<p align="center">
-  <a href="https://discord.gg/its_joeal">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://instagram.com/its_joeal_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/joeal-john-3a992732b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;Exploring+Multiple+Tech+Stacks;Clean+Code+%7C+Performance+%7C+Design" />
+
+<p><b>Curious, consistent, and focused on building real-world solutions.</b></p>
+
+<a href="https://discord.gg/its_joeal"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://instagram.com/its_joeal_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joeal-john-3a992732b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
 
-### 🧐 About Me
+## 🧠 About Me
 
-- 🔭 **Currently Working On:** Full-stack projects & system-based solutions.
-- 👯 **Looking to Collaborate On:** Open-source projects and automation tools.
-- 🤝 **Ask Me About:** Programming fundamentals, System Design, and Git.
-- 🌱 **Currently Learning:** Software design patterns & advanced tooling.
-- ⚡ **Fun Fact:** I enjoy learning **new languages** more than sticking to just one! 🚀
-
----
-
-### 💻 Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-
-</div>
+- 🔭 Working on **full-stack & system-oriented projects**
+- 👯 Open to **open-source & automation tools**
+- 🤝 Ask me about **System Design, Git, Core Programming**
+- 🌱 Learning **design patterns & advanced tooling**
+- ⚡ Fun fact: I enjoy **learning new languages** more than sticking to one
 
 ---
 
-### 📊 GitHub Analytics
+## 🛠 Tech Stack
+
+### 💡 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+
+### 🗄 Databases & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis)
+
+### ☁ Cloud & Backend
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/joealjohn">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joealjohn&layout=compact&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/joealjohn">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joealjohn&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=joealjohn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joealjohn&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=joealjohn&theme=radical&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joealjohn&theme=redical&hide_border=true"/>
+
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/joealjohn/joealjohn/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories  
+**Let’s build something meaningful together.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:2F88FF&height=120&section=footer"/>
