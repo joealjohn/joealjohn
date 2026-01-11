@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F88FF,100:00E5FF&height=200&section=header&text=Joeal%20John&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<h3>🚀 Full-Stack Developer • System Design Enthusiast</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Joeal+%F0%9F%91%8B;Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Web+Apps" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Apps;System+Design+Focused;Clean+Code+%7C+Performance+%7C+Architecture" />
-
-<p><b>Curious and driven developer building real-world solutions.</b></p>
+<p><b>Curious and driven developer focused on building real-world, scalable systems.</b></p>
 
 <a href="https://discord.gg/its_joeal">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -25,8 +23,8 @@
 ## 🧐 About Me
 
 - 🔭 Working on **full-stack & system-oriented projects**
-- 👯 Open to **open-source & automation tools**
-- 🤝 Ask me about **System Design, Git, Core Programming**
+- 🧠 Strong interest in **architecture, performance & clean code**
+- 🤝 Open to **open-source & collaborative development**
 - 🌱 Learning **design patterns & advanced tooling**
 - ⚡ Fun fact: I enjoy **learning new languages** more than sticking to one
 
@@ -34,27 +32,38 @@
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare)
+<div align="center">
+
+### 🧠 Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+### 🗄 Backend & Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+
+### ☁ Cloud & Tools
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -67,8 +76,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joealjohn&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=joealjohn&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joealjohn&theme=tokyo-night&hide_border=true" />
 
 </div>
 
